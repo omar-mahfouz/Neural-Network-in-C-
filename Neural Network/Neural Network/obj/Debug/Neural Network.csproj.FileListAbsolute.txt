@@ -1,0 +1,6 @@
+C:\Users\Omar Mahfouz\Desktop\Neural Network\Neural Network\bin\Debug\Neural Network.exe.config
+C:\Users\Omar Mahfouz\Desktop\Neural Network\Neural Network\bin\Debug\Neural Network.exe
+C:\Users\Omar Mahfouz\Desktop\Neural Network\Neural Network\bin\Debug\Neural Network.pdb
+C:\Users\Omar Mahfouz\Desktop\Neural Network\Neural Network\obj\Debug\Neural Network.csprojResolveAssemblyReference.cache
+C:\Users\Omar Mahfouz\Desktop\Neural Network\Neural Network\obj\Debug\Neural Network.exe
+C:\Users\Omar Mahfouz\Desktop\Neural Network\Neural Network\obj\Debug\Neural Network.pdb
